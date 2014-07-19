@@ -302,7 +302,7 @@ CKFinder.lang['tr'] =
 		extractHereLabel	: 'Buraya aç',
 		extractToLabel		: 'Hedefe aç...',
 		downloadZipLabel	: 'Zip olarak indir', 
-		compressZipLabel	: 'Zip dosyasına sıkıştır',
+		compressZipLabel	: 'Zip dosyası olarak sıkıştır',
 		removeAndExtract	: 'Varolanı kaldır ve aç',
 		extractAndOverwrite	: 'Mevcut dosyaların üzerine yazarak aç',
 		extractSuccess		: 'Başarıyla açıldı.'
